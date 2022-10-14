@@ -11,7 +11,7 @@
 # Modulo:           %   (a %  b)
 # Power:            **  (a ** b)
 
-b = 5
+# b = 5
 # b = b + 1
 # b += 1
 # b -= 1
