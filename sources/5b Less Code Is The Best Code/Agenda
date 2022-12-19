@@ -1,0 +1,12 @@
+### Agenda ###
+1. Logical Operators
+  a. and
+  b. or
+  c. not
+2. input()
+3. import and sys.exit()
+4. Code Design
+  a. Nested Ifs
+  b. Guard Clauses
+5. ShortHand If...Else AKA (Ternary Operator)
+6. ShortHand Ternary
